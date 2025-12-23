@@ -317,6 +317,17 @@ The MIT License is a permissive open-source license that allows you to:
 
 The only requirement is to include a copy of the license and copyright notice.
 
+## 👨‍💻 About the Author
+
+Created by **Subrata Mohanta**
+
+Connect with me on:
+- 🔗 **LinkedIn:** [linkedin.com/in/subratamohanta](https://linkedin.com/in/subratamohanta)
+- 📺 **YouTube:** [@technicalodiyatoka](https://www.youtube.com/@technicalodiyatoka)
+- 💻 **GitHub:** [@subratamohanta](https://github.com/subratamohanta)
+
+Feel free to reach out, ask questions, or share feedback about this project!
+
 ---
 
 **Last Updated:** December 2025
